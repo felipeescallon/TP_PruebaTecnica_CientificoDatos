@@ -1,0 +1,2 @@
+# TP_PruebaTecnica_CientificoDatos
+TELEPERFORMANCE - ASSESSMENT CARGOS ANALÍTICOS
