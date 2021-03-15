@@ -1,0 +1,23 @@
+VARIABLE,DESCRIPCIÓN
+REGIONAL,regional de instalación del servicio
+DEPARTAMENTO,Departamento de instalación del servicio
+TECNOL,Tipo de tecnología del servicio
+GERENCIA,Gerencia de venta del servicio
+CANAL_HOMOLOGADO_MILLICON,Canal de venta del servicio
+tipo_fuerza_venta,Tipo de fuerza o equipo que realizó la venta
+estrato,Estrato donde fue instalado el servicio
+antiguedad_meses,Antigüedad del cliente al momento de solicitar el servicio
+productos,"Productos solicitados TV= televisión, TO=Telefonía, BA = Internet"
+portafolio,cantidad de productos adquiridos
+no_serv_tecnicos,Servicios técnicos solicitados en los últimos 3 meses
+fallo,Tipo de fallo por el que solicitó el servicio técnico
+asesoria_factura,Si la variable asume el valor de 1 es que el cliente llamo a pedir una asesoría en factura
+pedidos_peticiones,Si la variable asume el valor de 1 es que el cliente llamo a hacer una petición queja o reclamo
+reagendamiento,Si la variable asume el valor de 1 es que el cliente llamo a reagendar un servicio
+asesoria_servicios,Si la variable asume el valor de 1 es que el cliente llamo a pedir una asesoría en el uso del servicio
+retencion,Si la variable asume el valor de 1 es que el cliente llamo a cancelar voluntariamente el servicio
+Otras,Si la variable asume el valor de 1 es que el cliente llamo por otros motivos
+quejas_fraude,El cliente presentó una queja de posible fraude por suplantación de identidad
+traslado,El cliente solicitó un traslado del servicio
+Incumplimiento_pago,"Variable objetivo, el 1 indica que el cliente no pago la primera factura"
+cliente_id,Identificador del cliente
