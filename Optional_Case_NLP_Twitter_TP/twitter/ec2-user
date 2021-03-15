@@ -1,0 +1,312 @@
+From root@ip-172-31-6-1.us-east-2.compute.internal  Thu Mar  4 18:43:31 2021
+Return-Path: <root@ip-172-31-6-1.us-east-2.compute.internal>
+Received: from ip-172-31-6-1.us-east-2.compute.internal (localhost [127.0.0.1])
+	by ip-172-31-6-1.us-east-2.compute.internal (8.14.4/8.14.4) with ESMTP id 124IhVDN011592
+	for <ec2-user@ip-172-31-6-1.us-east-2.compute.internal>; Thu, 4 Mar 2021 18:43:31 GMT
+Received: (from ec2-user@localhost)
+	by ip-172-31-6-1.us-east-2.compute.internal (8.14.4/8.14.4/Submit) id 124IhV0q011591;
+	Thu, 4 Mar 2021 18:43:31 GMT
+Date: Thu, 4 Mar 2021 18:43:31 GMT
+Message-Id: <202103041843.124IhV0q011591@ip-172-31-6-1.us-east-2.compute.internal>
+X-Authentication-Warning: ip-172-31-6-1.us-east-2.compute.internal: ec2-user set sender to root using -f
+From: root@ip-172-31-6-1.us-east-2.compute.internal (Cron Daemon)
+To: ec2-user@ip-172-31-6-1.us-east-2.compute.internal
+Subject: Cron <ec2-user@ip-172-31-6-1> ( sleep 30 ; /home/ec2-user/twitter/extract_tweets.sh )
+Content-Type: text/plain; charset=UTF-8
+Auto-Submitted: auto-generated
+X-Cron-Env: <LANG=en_US.UTF-8>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/home/ec2-user>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+X-Cron-Env: <LOGNAME=ec2-user>
+X-Cron-Env: <USER=ec2-user>
+
+/bin/sh: /home/ec2-user/twitter/extract_tweets.sh: Permission denied
+
+From root@ip-172-31-6-1.us-east-2.compute.internal  Thu Mar  4 18:44:31 2021
+Return-Path: <root@ip-172-31-6-1.us-east-2.compute.internal>
+Received: from ip-172-31-6-1.us-east-2.compute.internal (localhost [127.0.0.1])
+	by ip-172-31-6-1.us-east-2.compute.internal (8.14.4/8.14.4) with ESMTP id 124IiVid011604
+	for <ec2-user@ip-172-31-6-1.us-east-2.compute.internal>; Thu, 4 Mar 2021 18:44:31 GMT
+Received: (from ec2-user@localhost)
+	by ip-172-31-6-1.us-east-2.compute.internal (8.14.4/8.14.4/Submit) id 124IiV9b011603;
+	Thu, 4 Mar 2021 18:44:31 GMT
+Date: Thu, 4 Mar 2021 18:44:31 GMT
+Message-Id: <202103041844.124IiV9b011603@ip-172-31-6-1.us-east-2.compute.internal>
+X-Authentication-Warning: ip-172-31-6-1.us-east-2.compute.internal: ec2-user set sender to root using -f
+From: root@ip-172-31-6-1.us-east-2.compute.internal (Cron Daemon)
+To: ec2-user@ip-172-31-6-1.us-east-2.compute.internal
+Subject: Cron <ec2-user@ip-172-31-6-1> ( sleep 30 ; /home/ec2-user/twitter/extract_tweets.sh )
+Content-Type: text/plain; charset=UTF-8
+Auto-Submitted: auto-generated
+X-Cron-Env: <LANG=en_US.UTF-8>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/home/ec2-user>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+X-Cron-Env: <LOGNAME=ec2-user>
+X-Cron-Env: <USER=ec2-user>
+
+/bin/sh: /home/ec2-user/twitter/extract_tweets.sh: Permission denied
+
+From root@ip-172-31-6-1.us-east-2.compute.internal  Thu Mar  4 18:45:31 2021
+Return-Path: <root@ip-172-31-6-1.us-east-2.compute.internal>
+Received: from ip-172-31-6-1.us-east-2.compute.internal (localhost [127.0.0.1])
+	by ip-172-31-6-1.us-east-2.compute.internal (8.14.4/8.14.4) with ESMTP id 124IjVgE011619
+	for <ec2-user@ip-172-31-6-1.us-east-2.compute.internal>; Thu, 4 Mar 2021 18:45:31 GMT
+Received: (from ec2-user@localhost)
+	by ip-172-31-6-1.us-east-2.compute.internal (8.14.4/8.14.4/Submit) id 124IjVQu011618;
+	Thu, 4 Mar 2021 18:45:31 GMT
+Date: Thu, 4 Mar 2021 18:45:31 GMT
+Message-Id: <202103041845.124IjVQu011618@ip-172-31-6-1.us-east-2.compute.internal>
+X-Authentication-Warning: ip-172-31-6-1.us-east-2.compute.internal: ec2-user set sender to root using -f
+From: root@ip-172-31-6-1.us-east-2.compute.internal (Cron Daemon)
+To: ec2-user@ip-172-31-6-1.us-east-2.compute.internal
+Subject: Cron <ec2-user@ip-172-31-6-1> ( sleep 30 ; /home/ec2-user/twitter/extract_tweets.sh )
+Content-Type: text/plain; charset=UTF-8
+Auto-Submitted: auto-generated
+X-Cron-Env: <LANG=en_US.UTF-8>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/home/ec2-user>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+X-Cron-Env: <LOGNAME=ec2-user>
+X-Cron-Env: <USER=ec2-user>
+
+/bin/sh: /home/ec2-user/twitter/extract_tweets.sh: Permission denied
+
+From root@ip-172-31-6-1.us-east-2.compute.internal  Thu Mar  4 18:46:32 2021
+Return-Path: <root@ip-172-31-6-1.us-east-2.compute.internal>
+Received: from ip-172-31-6-1.us-east-2.compute.internal (localhost [127.0.0.1])
+	by ip-172-31-6-1.us-east-2.compute.internal (8.14.4/8.14.4) with ESMTP id 124IkWrc011628
+	for <ec2-user@ip-172-31-6-1.us-east-2.compute.internal>; Thu, 4 Mar 2021 18:46:32 GMT
+Received: (from ec2-user@localhost)
+	by ip-172-31-6-1.us-east-2.compute.internal (8.14.4/8.14.4/Submit) id 124IkVW7011627;
+	Thu, 4 Mar 2021 18:46:31 GMT
+Date: Thu, 4 Mar 2021 18:46:31 GMT
+Message-Id: <202103041846.124IkVW7011627@ip-172-31-6-1.us-east-2.compute.internal>
+X-Authentication-Warning: ip-172-31-6-1.us-east-2.compute.internal: ec2-user set sender to root using -f
+From: root@ip-172-31-6-1.us-east-2.compute.internal (Cron Daemon)
+To: ec2-user@ip-172-31-6-1.us-east-2.compute.internal
+Subject: Cron <ec2-user@ip-172-31-6-1> ( sleep 30 ; /home/ec2-user/twitter/extract_tweets.sh )
+Content-Type: text/plain; charset=UTF-8
+Auto-Submitted: auto-generated
+X-Cron-Env: <LANG=en_US.UTF-8>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/home/ec2-user>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+X-Cron-Env: <LOGNAME=ec2-user>
+X-Cron-Env: <USER=ec2-user>
+
+/bin/sh: /home/ec2-user/twitter/extract_tweets.sh: Permission denied
+
+From root@ip-172-31-6-1.us-east-2.compute.internal  Thu Mar  4 18:47:31 2021
+Return-Path: <root@ip-172-31-6-1.us-east-2.compute.internal>
+Received: from ip-172-31-6-1.us-east-2.compute.internal (localhost [127.0.0.1])
+	by ip-172-31-6-1.us-east-2.compute.internal (8.14.4/8.14.4) with ESMTP id 124IlVKg011637
+	for <ec2-user@ip-172-31-6-1.us-east-2.compute.internal>; Thu, 4 Mar 2021 18:47:31 GMT
+Received: (from ec2-user@localhost)
+	by ip-172-31-6-1.us-east-2.compute.internal (8.14.4/8.14.4/Submit) id 124IlVNF011636;
+	Thu, 4 Mar 2021 18:47:31 GMT
+Date: Thu, 4 Mar 2021 18:47:31 GMT
+Message-Id: <202103041847.124IlVNF011636@ip-172-31-6-1.us-east-2.compute.internal>
+X-Authentication-Warning: ip-172-31-6-1.us-east-2.compute.internal: ec2-user set sender to root using -f
+From: root@ip-172-31-6-1.us-east-2.compute.internal (Cron Daemon)
+To: ec2-user@ip-172-31-6-1.us-east-2.compute.internal
+Subject: Cron <ec2-user@ip-172-31-6-1> ( sleep 30 ; /home/ec2-user/twitter/extract_tweets.sh )
+Content-Type: text/plain; charset=UTF-8
+Auto-Submitted: auto-generated
+X-Cron-Env: <LANG=en_US.UTF-8>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/home/ec2-user>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+X-Cron-Env: <LOGNAME=ec2-user>
+X-Cron-Env: <USER=ec2-user>
+
+/bin/sh: /home/ec2-user/twitter/extract_tweets.sh: Permission denied
+
+From root@ip-172-31-6-1.us-east-2.compute.internal  Thu Mar  4 18:48:31 2021
+Return-Path: <root@ip-172-31-6-1.us-east-2.compute.internal>
+Received: from ip-172-31-6-1.us-east-2.compute.internal (localhost [127.0.0.1])
+	by ip-172-31-6-1.us-east-2.compute.internal (8.14.4/8.14.4) with ESMTP id 124ImVeD011646
+	for <ec2-user@ip-172-31-6-1.us-east-2.compute.internal>; Thu, 4 Mar 2021 18:48:31 GMT
+Received: (from ec2-user@localhost)
+	by ip-172-31-6-1.us-east-2.compute.internal (8.14.4/8.14.4/Submit) id 124ImVG4011645;
+	Thu, 4 Mar 2021 18:48:31 GMT
+Date: Thu, 4 Mar 2021 18:48:31 GMT
+Message-Id: <202103041848.124ImVG4011645@ip-172-31-6-1.us-east-2.compute.internal>
+X-Authentication-Warning: ip-172-31-6-1.us-east-2.compute.internal: ec2-user set sender to root using -f
+From: root@ip-172-31-6-1.us-east-2.compute.internal (Cron Daemon)
+To: ec2-user@ip-172-31-6-1.us-east-2.compute.internal
+Subject: Cron <ec2-user@ip-172-31-6-1> ( sleep 30 ; /home/ec2-user/twitter/extract_tweets.sh )
+Content-Type: text/plain; charset=UTF-8
+Auto-Submitted: auto-generated
+X-Cron-Env: <LANG=en_US.UTF-8>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/home/ec2-user>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+X-Cron-Env: <LOGNAME=ec2-user>
+X-Cron-Env: <USER=ec2-user>
+
+/bin/sh: /home/ec2-user/twitter/extract_tweets.sh: Permission denied
+
+From root@ip-172-31-6-1.us-east-2.compute.internal  Thu Mar  4 19:01:03 2021
+Return-Path: <root@ip-172-31-6-1.us-east-2.compute.internal>
+Received: from ip-172-31-6-1.us-east-2.compute.internal (localhost [127.0.0.1])
+	by ip-172-31-6-1.us-east-2.compute.internal (8.14.4/8.14.4) with ESMTP id 124J131I011833
+	for <ec2-user@ip-172-31-6-1.us-east-2.compute.internal>; Thu, 4 Mar 2021 19:01:03 GMT
+Received: (from ec2-user@localhost)
+	by ip-172-31-6-1.us-east-2.compute.internal (8.14.4/8.14.4/Submit) id 124IujV0011798;
+	Thu, 4 Mar 2021 18:56:45 GMT
+Date: Thu, 4 Mar 2021 18:56:45 GMT
+Message-Id: <202103041856.124IujV0011798@ip-172-31-6-1.us-east-2.compute.internal>
+X-Authentication-Warning: ip-172-31-6-1.us-east-2.compute.internal: ec2-user set sender to root using -f
+From: root@ip-172-31-6-1.us-east-2.compute.internal (Cron Daemon)
+To: ec2-user@ip-172-31-6-1.us-east-2.compute.internal
+Subject: Cron <ec2-user@ip-172-31-6-1> ( sleep 30 ; /home/ec2-user/twitter/extract_tweets.sh )
+Content-Type: text/plain; charset=UTF-8
+Auto-Submitted: auto-generated
+X-Cron-Env: <LANG=en_US.UTF-8>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/home/ec2-user>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+X-Cron-Env: <LOGNAME=ec2-user>
+X-Cron-Env: <USER=ec2-user>
+
+Start process
+Start Streaming
+Stop Streaming
+Stop process
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/urllib3/connectionpool.py", line 677, in urlopen
+    chunked=chunked,
+  File "/usr/local/lib/python3.6/site-packages/urllib3/connectionpool.py", line 381, in _make_request
+    self._validate_conn(conn)
+  File "/usr/local/lib/python3.6/site-packages/urllib3/connectionpool.py", line 978, in _validate_conn
+    conn.connect()
+  File "/usr/local/lib/python3.6/site-packages/urllib3/connection.py", line 371, in connect
+    ssl_context=context,
+  File "/usr/local/lib/python3.6/site-packages/urllib3/util/ssl_.py", line 384, in ssl_wrap_socket
+    return context.wrap_socket(sock, server_hostname=server_hostname)
+  File "/usr/lib64/python3.6/ssl.py", line 407, in wrap_socket
+    _context=self, _session=session)
+  File "/usr/lib64/python3.6/ssl.py", line 817, in __init__
+    self.do_handshake()
+  File "/usr/lib64/python3.6/ssl.py", line 1077, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib64/python3.6/ssl.py", line 689, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLEOFError: EOF occurred in violation of protocol (_ssl.c:852)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/requests/adapters.py", line 449, in send
+    timeout=timeout
+  File "/usr/local/lib/python3.6/site-packages/urllib3/connectionpool.py", line 727, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "/usr/local/lib/python3.6/site-packages/urllib3/util/retry.py", line 439, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='stream.twitter.com', port=443): Max retries exceeded with url: /1.1/statuses/filter.json?delimited=length (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:852)'),))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib64/python3.6/threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "/usr/lib64/python3.6/threading.py", line 864, in run
+    self._target(*self._args, **self._kwargs)
+  File "/usr/local/lib/python3.6/site-packages/tweepy/streaming.py", line 320, in _run
+    six.reraise(*exc_info)
+  File "/usr/local/lib/python3.6/site-packages/six.py", line 703, in reraise
+    raise value
+  File "/usr/local/lib/python3.6/site-packages/tweepy/streaming.py", line 273, in _run
+    proxies = self.proxies)
+  File "/usr/local/lib/python3.6/site-packages/requests/sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/local/lib/python3.6/site-packages/requests/sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/requests/adapters.py", line 514, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='stream.twitter.com', port=443): Max retries exceeded with url: /1.1/statuses/filter.json?delimited=length (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:852)'),))
+
+From root@ip-172-31-6-1.us-east-2.compute.internal  Thu Mar  4 19:01:03 2021
+Return-Path: <root@ip-172-31-6-1.us-east-2.compute.internal>
+Received: from ip-172-31-6-1.us-east-2.compute.internal (localhost [127.0.0.1])
+	by ip-172-31-6-1.us-east-2.compute.internal (8.14.4/8.14.4) with ESMTP id 124J13gR011834
+	for <ec2-user@ip-172-31-6-1.us-east-2.compute.internal>; Thu, 4 Mar 2021 19:01:03 GMT
+Received: (from ec2-user@localhost)
+	by ip-172-31-6-1.us-east-2.compute.internal (8.14.4/8.14.4/Submit) id 124Irgpq011713;
+	Thu, 4 Mar 2021 18:53:42 GMT
+Date: Thu, 4 Mar 2021 18:53:42 GMT
+Message-Id: <202103041853.124Irgpq011713@ip-172-31-6-1.us-east-2.compute.internal>
+X-Authentication-Warning: ip-172-31-6-1.us-east-2.compute.internal: ec2-user set sender to root using -f
+From: root@ip-172-31-6-1.us-east-2.compute.internal (Cron Daemon)
+To: ec2-user@ip-172-31-6-1.us-east-2.compute.internal
+Subject: Cron <ec2-user@ip-172-31-6-1> ( sleep 30 ; /home/ec2-user/twitter/extract_tweets.sh )
+Content-Type: text/plain; charset=UTF-8
+Auto-Submitted: auto-generated
+X-Cron-Env: <LANG=en_US.UTF-8>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/home/ec2-user>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+X-Cron-Env: <LOGNAME=ec2-user>
+X-Cron-Env: <USER=ec2-user>
+
+Start process
+Start Streaming
+Stop Streaming
+Stop process
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/urllib3/connectionpool.py", line 677, in urlopen
+    chunked=chunked,
+  File "/usr/local/lib/python3.6/site-packages/urllib3/connectionpool.py", line 381, in _make_request
+    self._validate_conn(conn)
+  File "/usr/local/lib/python3.6/site-packages/urllib3/connectionpool.py", line 978, in _validate_conn
+    conn.connect()
+  File "/usr/local/lib/python3.6/site-packages/urllib3/connection.py", line 371, in connect
+    ssl_context=context,
+  File "/usr/local/lib/python3.6/site-packages/urllib3/util/ssl_.py", line 384, in ssl_wrap_socket
+    return context.wrap_socket(sock, server_hostname=server_hostname)
+  File "/usr/lib64/python3.6/ssl.py", line 407, in wrap_socket
+    _context=self, _session=session)
+  File "/usr/lib64/python3.6/ssl.py", line 817, in __init__
+    self.do_handshake()
+  File "/usr/lib64/python3.6/ssl.py", line 1077, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib64/python3.6/ssl.py", line 689, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLEOFError: EOF occurred in violation of protocol (_ssl.c:852)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/requests/adapters.py", line 449, in send
+    timeout=timeout
+  File "/usr/local/lib/python3.6/site-packages/urllib3/connectionpool.py", line 727, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "/usr/local/lib/python3.6/site-packages/urllib3/util/retry.py", line 439, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='stream.twitter.com', port=443): Max retries exceeded with url: /1.1/statuses/filter.json?delimited=length (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:852)'),))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib64/python3.6/threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "/usr/lib64/python3.6/threading.py", line 864, in run
+    self._target(*self._args, **self._kwargs)
+  File "/usr/local/lib/python3.6/site-packages/tweepy/streaming.py", line 320, in _run
+    six.reraise(*exc_info)
+  File "/usr/local/lib/python3.6/site-packages/six.py", line 703, in reraise
+    raise value
+  File "/usr/local/lib/python3.6/site-packages/tweepy/streaming.py", line 273, in _run
+    proxies = self.proxies)
+  File "/usr/local/lib/python3.6/site-packages/requests/sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/local/lib/python3.6/site-packages/requests/sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/requests/adapters.py", line 514, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='stream.twitter.com', port=443): Max retries exceeded with url: /1.1/statuses/filter.json?delimited=length (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:852)'),))
+

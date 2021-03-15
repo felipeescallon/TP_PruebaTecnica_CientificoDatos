@@ -1,0 +1,436 @@
+Traceback (most recent call last):
+  File "twitter/main.py", line 1, in <module>
+    from TwStreamListener import *
+  File "/home/ec2-user/twitter/TwStreamListener.py", line 17, in <module>
+    from textblob import TextBlob
+  File "/usr/local/lib/python3.6/site-packages/textblob/__init__.py", line 2, in <module>
+    from .blob import TextBlob, Word, Sentence, Blobber, WordList
+  File "/usr/local/lib/python3.6/site-packages/textblob/blob.py", line 28, in <module>
+    import nltk
+  File "/usr/local/lib/python3.6/site-packages/nltk/__init__.py", line 149, in <module>
+    from nltk.translate import *
+  File "/usr/local/lib/python3.6/site-packages/nltk/translate/__init__.py", line 23, in <module>
+    from nltk.translate.meteor_score import meteor_score as meteor
+  File "/usr/local/lib/python3.6/site-packages/nltk/translate/meteor_score.py", line 10, in <module>
+    from nltk.stem.porter import PorterStemmer
+  File "/usr/local/lib/python3.6/site-packages/nltk/stem/__init__.py", line 29, in <module>
+    from nltk.stem.snowball import SnowballStemmer
+  File "/usr/local/lib/python3.6/site-packages/nltk/stem/snowball.py", line 29, in <module>
+    from nltk.corpus import stopwords
+  File "/usr/local/lib/python3.6/site-packages/nltk/corpus/__init__.py", line 66, in <module>
+    from nltk.corpus.reader import *
+  File "/usr/local/lib/python3.6/site-packages/nltk/corpus/reader/__init__.py", line 105, in <module>
+    from nltk.corpus.reader.panlex_lite import *
+  File "/usr/local/lib/python3.6/site-packages/nltk/corpus/reader/panlex_lite.py", line 15, in <module>
+    import sqlite3
+  File "/usr/lib64/python3.6/sqlite3/__init__.py", line 23, in <module>
+    from sqlite3.dbapi2 import *
+  File "/usr/lib64/python3.6/sqlite3/dbapi2.py", line 27, in <module>
+    from _sqlite3 import *
+ImportError: /usr/lib64/python3.6/lib-dynload/_sqlite3.cpython-36m-x86_64-linux-gnu.so: failed to map segment from shared object: Cannot allocate memory
+Traceback (most recent call last):
+  File "twitter/main.py", line 1, in <module>
+    from TwStreamListener import *
+  File "/home/ec2-user/twitter/TwStreamListener.py", line 14, in <module>
+    import tweepy
+  File "/usr/local/lib/python3.6/site-packages/tweepy/__init__.py", line 12, in <module>
+    from tweepy.api import API
+  File "/usr/local/lib/python3.6/site-packages/tweepy/api.py", line 9, in <module>
+    import six
+  File "/usr/local/lib/python3.6/site-packages/six.py", line 633, in <module>
+    import struct
+  File "/usr/lib64/python3.6/struct.py", line 13, in <module>
+    from _struct import *
+ImportError: /usr/lib64/python3.6/lib-dynload/_struct.cpython-36m-x86_64-linux-gnu.so: failed to map segment from shared object: Cannot allocate memory
+Traceback (most recent call last):
+  File "twitter/main.py", line 1, in <module>
+    from TwStreamListener import *
+  File "/home/ec2-user/twitter/TwStreamListener.py", line 14, in <module>
+    import tweepy
+  File "/usr/local/lib/python3.6/site-packages/tweepy/__init__.py", line 12, in <module>
+    from tweepy.api import API
+  File "/usr/local/lib/python3.6/site-packages/tweepy/api.py", line 9, in <module>
+    import six
+  File "/usr/local/lib/python3.6/site-packages/six.py", line 633, in <module>
+    import struct
+  File "/usr/lib64/python3.6/struct.py", line 13, in <module>
+    from _struct import *
+ImportError: /usr/lib64/python3.6/lib-dynload/_struct.cpython-36m-x86_64-linux-gnu.so: failed to map segment from shared object: Cannot allocate memory
+Traceback (most recent call last):
+  File "twitter/main.py", line 1, in <module>
+    from TwStreamListener import *
+  File "/home/ec2-user/twitter/TwStreamListener.py", line 14, in <module>
+    import tweepy
+  File "/usr/local/lib/python3.6/site-packages/tweepy/__init__.py", line 12, in <module>
+    from tweepy.api import API
+  File "/usr/local/lib/python3.6/site-packages/tweepy/api.py", line 9, in <module>
+    import six
+  File "/usr/local/lib/python3.6/site-packages/six.py", line 633, in <module>
+    import struct
+  File "/usr/lib64/python3.6/struct.py", line 13, in <module>
+    from _struct import *
+ImportError: /usr/lib64/python3.6/lib-dynload/_struct.cpython-36m-x86_64-linux-gnu.so: failed to map segment from shared object: Cannot allocate memory
+Traceback (most recent call last):
+  File "twitter/main.py", line 1, in <module>
+    from TwStreamListener import *
+  File "/home/ec2-user/twitter/TwStreamListener.py", line 14, in <module>
+    import tweepy
+  File "/usr/local/lib/python3.6/site-packages/tweepy/__init__.py", line 12, in <module>
+    from tweepy.api import API
+  File "/usr/local/lib/python3.6/site-packages/tweepy/api.py", line 9, in <module>
+    import six
+  File "/usr/local/lib/python3.6/site-packages/six.py", line 633, in <module>
+    import struct
+  File "/usr/lib64/python3.6/struct.py", line 13, in <module>
+    from _struct import *
+ImportError: /usr/lib64/python3.6/lib-dynload/_struct.cpython-36m-x86_64-linux-gnu.so: failed to map segment from shared object: Cannot allocate memory
+Traceback (most recent call last):
+  File "twitter/main.py", line 1, in <module>
+    from TwStreamListener import *
+  File "/home/ec2-user/twitter/TwStreamListener.py", line 14, in <module>
+    import tweepy
+  File "/usr/local/lib/python3.6/site-packages/tweepy/__init__.py", line 12, in <module>
+    from tweepy.api import API
+  File "/usr/local/lib/python3.6/site-packages/tweepy/api.py", line 9, in <module>
+    import six
+  File "/usr/local/lib/python3.6/site-packages/six.py", line 633, in <module>
+    import struct
+  File "/usr/lib64/python3.6/struct.py", line 13, in <module>
+    from _struct import *
+ImportError: /usr/lib64/python3.6/lib-dynload/_struct.cpython-36m-x86_64-linux-gnu.so: failed to map segment from shared object: Cannot allocate memory
+Traceback (most recent call last):
+  File "twitter/main.py", line 1, in <module>
+    from TwStreamListener import *
+  File "/home/ec2-user/twitter/TwStreamListener.py", line 14, in <module>
+    import tweepy
+  File "/usr/local/lib/python3.6/site-packages/tweepy/__init__.py", line 12, in <module>
+    from tweepy.api import API
+  File "/usr/local/lib/python3.6/site-packages/tweepy/api.py", line 9, in <module>
+    import six
+  File "/usr/local/lib/python3.6/site-packages/six.py", line 633, in <module>
+    import struct
+  File "/usr/lib64/python3.6/struct.py", line 13, in <module>
+    from _struct import *
+ImportError: /usr/lib64/python3.6/lib-dynload/_struct.cpython-36m-x86_64-linux-gnu.so: failed to map segment from shared object: Cannot allocate memory
+Traceback (most recent call last):
+  File "twitter/main.py", line 1, in <module>
+    from TwStreamListener import *
+  File "/home/ec2-user/twitter/TwStreamListener.py", line 14, in <module>
+    import tweepy
+  File "/usr/local/lib/python3.6/site-packages/tweepy/__init__.py", line 12, in <module>
+    from tweepy.api import API
+  File "/usr/local/lib/python3.6/site-packages/tweepy/api.py", line 9, in <module>
+    import six
+  File "/usr/local/lib/python3.6/site-packages/six.py", line 633, in <module>
+    import struct
+  File "/usr/lib64/python3.6/struct.py", line 13, in <module>
+    from _struct import *
+ImportError: /usr/lib64/python3.6/lib-dynload/_struct.cpython-36m-x86_64-linux-gnu.so: failed to map segment from shared object: Cannot allocate memory
+Traceback (most recent call last):
+  File "twitter/main.py", line 1, in <module>
+    from TwStreamListener import *
+  File "/home/ec2-user/twitter/TwStreamListener.py", line 14, in <module>
+    import tweepy
+  File "/usr/local/lib/python3.6/site-packages/tweepy/__init__.py", line 12, in <module>
+    from tweepy.api import API
+  File "/usr/local/lib/python3.6/site-packages/tweepy/api.py", line 9, in <module>
+    import six
+  File "/usr/local/lib/python3.6/site-packages/six.py", line 633, in <module>
+    import struct
+  File "/usr/lib64/python3.6/struct.py", line 13, in <module>
+    from _struct import *
+ImportError: /usr/lib64/python3.6/lib-dynload/_struct.cpython-36m-x86_64-linux-gnu.so: failed to map segment from shared object: Cannot allocate memory
+Traceback (most recent call last):
+  File "twitter/main.py", line 1, in <module>
+    from TwStreamListener import *
+  File "/home/ec2-user/twitter/TwStreamListener.py", line 14, in <module>
+    import tweepy
+  File "/usr/local/lib/python3.6/site-packages/tweepy/__init__.py", line 12, in <module>
+    from tweepy.api import API
+  File "/usr/local/lib/python3.6/site-packages/tweepy/api.py", line 9, in <module>
+    import six
+  File "/usr/local/lib/python3.6/site-packages/six.py", line 633, in <module>
+    import struct
+  File "/usr/lib64/python3.6/struct.py", line 13, in <module>
+    from _struct import *
+ImportError: /usr/lib64/python3.6/lib-dynload/_struct.cpython-36m-x86_64-linux-gnu.so: failed to map segment from shared object: Cannot allocate memory
+Traceback (most recent call last):
+  File "twitter/main.py", line 1, in <module>
+    from TwStreamListener import *
+  File "/home/ec2-user/twitter/TwStreamListener.py", line 14, in <module>
+    import tweepy
+  File "/usr/local/lib/python3.6/site-packages/tweepy/__init__.py", line 12, in <module>
+    from tweepy.api import API
+  File "/usr/local/lib/python3.6/site-packages/tweepy/api.py", line 9, in <module>
+    import six
+  File "/usr/local/lib/python3.6/site-packages/six.py", line 633, in <module>
+    import struct
+  File "/usr/lib64/python3.6/struct.py", line 13, in <module>
+    from _struct import *
+ImportError: /usr/lib64/python3.6/lib-dynload/_struct.cpython-36m-x86_64-linux-gnu.so: failed to map segment from shared object: Cannot allocate memory
+Traceback (most recent call last):
+  File "twitter/main.py", line 1, in <module>
+    from TwStreamListener import *
+  File "/home/ec2-user/twitter/TwStreamListener.py", line 14, in <module>
+    import tweepy
+  File "/usr/local/lib/python3.6/site-packages/tweepy/__init__.py", line 12, in <module>
+    from tweepy.api import API
+  File "/usr/local/lib/python3.6/site-packages/tweepy/api.py", line 9, in <module>
+    import six
+  File "/usr/local/lib/python3.6/site-packages/six.py", line 633, in <module>
+    import struct
+  File "/usr/lib64/python3.6/struct.py", line 13, in <module>
+    from _struct import *
+ImportError: /usr/lib64/python3.6/lib-dynload/_struct.cpython-36m-x86_64-linux-gnu.so: failed to map segment from shared object: Cannot allocate memory
+Traceback (most recent call last):
+  File "twitter/main.py", line 1, in <module>
+    from TwStreamListener import *
+  File "/home/ec2-user/twitter/TwStreamListener.py", line 14, in <module>
+    import tweepy
+  File "/usr/local/lib/python3.6/site-packages/tweepy/__init__.py", line 12, in <module>
+    from tweepy.api import API
+  File "/usr/local/lib/python3.6/site-packages/tweepy/api.py", line 9, in <module>
+    import six
+  File "/usr/local/lib/python3.6/site-packages/six.py", line 633, in <module>
+    import struct
+  File "/usr/lib64/python3.6/struct.py", line 13, in <module>
+    from _struct import *
+ImportError: /usr/lib64/python3.6/lib-dynload/_struct.cpython-36m-x86_64-linux-gnu.so: failed to map segment from shared object: Cannot allocate memory
+Traceback (most recent call last):
+  File "twitter/main.py", line 1, in <module>
+    from TwStreamListener import *
+  File "/home/ec2-user/twitter/TwStreamListener.py", line 14, in <module>
+    import tweepy
+  File "/usr/local/lib/python3.6/site-packages/tweepy/__init__.py", line 12, in <module>
+    from tweepy.api import API
+  File "/usr/local/lib/python3.6/site-packages/tweepy/api.py", line 9, in <module>
+    import six
+  File "/usr/local/lib/python3.6/site-packages/six.py", line 633, in <module>
+    import struct
+  File "/usr/lib64/python3.6/struct.py", line 13, in <module>
+    from _struct import *
+ImportError: /usr/lib64/python3.6/lib-dynload/_struct.cpython-36m-x86_64-linux-gnu.so: failed to map segment from shared object: Cannot allocate memory
+Traceback (most recent call last):
+  File "twitter/main.py", line 1, in <module>
+    from TwStreamListener import *
+  File "/home/ec2-user/twitter/TwStreamListener.py", line 14, in <module>
+    import tweepy
+  File "/usr/local/lib/python3.6/site-packages/tweepy/__init__.py", line 12, in <module>
+    from tweepy.api import API
+  File "/usr/local/lib/python3.6/site-packages/tweepy/api.py", line 9, in <module>
+    import six
+  File "/usr/local/lib/python3.6/site-packages/six.py", line 633, in <module>
+    import struct
+  File "/usr/lib64/python3.6/struct.py", line 13, in <module>
+    from _struct import *
+ImportError: /usr/lib64/python3.6/lib-dynload/_struct.cpython-36m-x86_64-linux-gnu.so: failed to map segment from shared object: Cannot allocate memory
+Traceback (most recent call last):
+  File "twitter/main.py", line 1, in <module>
+    from TwStreamListener import *
+  File "/home/ec2-user/twitter/TwStreamListener.py", line 14, in <module>
+    import tweepy
+  File "/usr/local/lib/python3.6/site-packages/tweepy/__init__.py", line 12, in <module>
+    from tweepy.api import API
+  File "/usr/local/lib/python3.6/site-packages/tweepy/api.py", line 9, in <module>
+    import six
+  File "/usr/local/lib/python3.6/site-packages/six.py", line 633, in <module>
+    import struct
+  File "/usr/lib64/python3.6/struct.py", line 13, in <module>
+    from _struct import *
+ImportError: /usr/lib64/python3.6/lib-dynload/_struct.cpython-36m-x86_64-linux-gnu.so: failed to map segment from shared object: Cannot allocate memory
+Traceback (most recent call last):
+  File "twitter/main.py", line 1, in <module>
+    from TwStreamListener import *
+  File "/home/ec2-user/twitter/TwStreamListener.py", line 14, in <module>
+    import tweepy
+  File "/usr/local/lib/python3.6/site-packages/tweepy/__init__.py", line 12, in <module>
+    from tweepy.api import API
+  File "/usr/local/lib/python3.6/site-packages/tweepy/api.py", line 9, in <module>
+    import six
+  File "/usr/local/lib/python3.6/site-packages/six.py", line 633, in <module>
+    import struct
+  File "/usr/lib64/python3.6/struct.py", line 13, in <module>
+    from _struct import *
+ImportError: /usr/lib64/python3.6/lib-dynload/_struct.cpython-36m-x86_64-linux-gnu.so: failed to map segment from shared object: Cannot allocate memory
+Traceback (most recent call last):
+  File "twitter/main.py", line 1, in <module>
+    from TwStreamListener import *
+  File "/home/ec2-user/twitter/TwStreamListener.py", line 14, in <module>
+    import tweepy
+  File "/usr/local/lib/python3.6/site-packages/tweepy/__init__.py", line 12, in <module>
+    from tweepy.api import API
+  File "/usr/local/lib/python3.6/site-packages/tweepy/api.py", line 9, in <module>
+    import six
+  File "/usr/local/lib/python3.6/site-packages/six.py", line 633, in <module>
+    import struct
+  File "/usr/lib64/python3.6/struct.py", line 13, in <module>
+    from _struct import *
+ImportError: /usr/lib64/python3.6/lib-dynload/_struct.cpython-36m-x86_64-linux-gnu.so: failed to map segment from shared object: Cannot allocate memory
+Traceback (most recent call last):
+  File "twitter/main.py", line 1, in <module>
+    from TwStreamListener import *
+  File "/home/ec2-user/twitter/TwStreamListener.py", line 14, in <module>
+    import tweepy
+  File "/usr/local/lib/python3.6/site-packages/tweepy/__init__.py", line 12, in <module>
+    from tweepy.api import API
+  File "/usr/local/lib/python3.6/site-packages/tweepy/api.py", line 9, in <module>
+    import six
+  File "/usr/local/lib/python3.6/site-packages/six.py", line 633, in <module>
+    import struct
+  File "/usr/lib64/python3.6/struct.py", line 13, in <module>
+    from _struct import *
+ImportError: /usr/lib64/python3.6/lib-dynload/_struct.cpython-36m-x86_64-linux-gnu.so: failed to map segment from shared object: Cannot allocate memory
+Traceback (most recent call last):
+  File "twitter/main.py", line 1, in <module>
+    from TwStreamListener import *
+  File "/home/ec2-user/twitter/TwStreamListener.py", line 14, in <module>
+    import tweepy
+  File "/usr/local/lib/python3.6/site-packages/tweepy/__init__.py", line 12, in <module>
+    from tweepy.api import API
+  File "/usr/local/lib/python3.6/site-packages/tweepy/api.py", line 9, in <module>
+    import six
+  File "/usr/local/lib/python3.6/site-packages/six.py", line 633, in <module>
+    import struct
+  File "/usr/lib64/python3.6/struct.py", line 13, in <module>
+    from _struct import *
+ImportError: /usr/lib64/python3.6/lib-dynload/_struct.cpython-36m-x86_64-linux-gnu.so: failed to map segment from shared object: Cannot allocate memory
+Traceback (most recent call last):
+  File "twitter/main.py", line 1, in <module>
+    from TwStreamListener import *
+  File "/home/ec2-user/twitter/TwStreamListener.py", line 14, in <module>
+    import tweepy
+  File "/usr/local/lib/python3.6/site-packages/tweepy/__init__.py", line 12, in <module>
+    from tweepy.api import API
+  File "/usr/local/lib/python3.6/site-packages/tweepy/api.py", line 9, in <module>
+    import six
+  File "/usr/local/lib/python3.6/site-packages/six.py", line 633, in <module>
+    import struct
+  File "/usr/lib64/python3.6/struct.py", line 13, in <module>
+    from _struct import *
+ImportError: /usr/lib64/python3.6/lib-dynload/_struct.cpython-36m-x86_64-linux-gnu.so: failed to map segment from shared object: Cannot allocate memory
+Traceback (most recent call last):
+  File "twitter/main.py", line 1, in <module>
+    from TwStreamListener import *
+  File "/home/ec2-user/twitter/TwStreamListener.py", line 14, in <module>
+    import tweepy
+  File "/usr/local/lib/python3.6/site-packages/tweepy/__init__.py", line 12, in <module>
+    from tweepy.api import API
+  File "/usr/local/lib/python3.6/site-packages/tweepy/api.py", line 9, in <module>
+    import six
+  File "/usr/local/lib/python3.6/site-packages/six.py", line 633, in <module>
+    import struct
+  File "/usr/lib64/python3.6/struct.py", line 13, in <module>
+    from _struct import *
+ImportError: /usr/lib64/python3.6/lib-dynload/_struct.cpython-36m-x86_64-linux-gnu.so: failed to map segment from shared object: Cannot allocate memory
+Traceback (most recent call last):
+  File "twitter/main.py", line 1, in <module>
+    from TwStreamListener import *
+  File "/home/ec2-user/twitter/TwStreamListener.py", line 14, in <module>
+    import tweepy
+  File "/usr/local/lib/python3.6/site-packages/tweepy/__init__.py", line 12, in <module>
+    from tweepy.api import API
+  File "/usr/local/lib/python3.6/site-packages/tweepy/api.py", line 9, in <module>
+    import six
+  File "/usr/local/lib/python3.6/site-packages/six.py", line 633, in <module>
+    import struct
+  File "/usr/lib64/python3.6/struct.py", line 13, in <module>
+    from _struct import *
+ImportError: /usr/lib64/python3.6/lib-dynload/_struct.cpython-36m-x86_64-linux-gnu.so: failed to map segment from shared object: Cannot allocate memory
+Traceback (most recent call last):
+  File "twitter/main.py", line 1, in <module>
+    from TwStreamListener import *
+  File "/home/ec2-user/twitter/TwStreamListener.py", line 14, in <module>
+    import tweepy
+  File "/usr/local/lib/python3.6/site-packages/tweepy/__init__.py", line 12, in <module>
+    from tweepy.api import API
+  File "/usr/local/lib/python3.6/site-packages/tweepy/api.py", line 9, in <module>
+    import six
+  File "/usr/local/lib/python3.6/site-packages/six.py", line 633, in <module>
+    import struct
+  File "/usr/lib64/python3.6/struct.py", line 13, in <module>
+    from _struct import *
+ImportError: /usr/lib64/python3.6/lib-dynload/_struct.cpython-36m-x86_64-linux-gnu.so: failed to map segment from shared object: Cannot allocate memory
+Traceback (most recent call last):
+  File "twitter/main.py", line 1, in <module>
+    from TwStreamListener import *
+  File "/home/ec2-user/twitter/TwStreamListener.py", line 14, in <module>
+    import tweepy
+  File "/usr/local/lib/python3.6/site-packages/tweepy/__init__.py", line 12, in <module>
+    from tweepy.api import API
+  File "/usr/local/lib/python3.6/site-packages/tweepy/api.py", line 9, in <module>
+    import six
+  File "/usr/local/lib/python3.6/site-packages/six.py", line 633, in <module>
+    import struct
+  File "/usr/lib64/python3.6/struct.py", line 13, in <module>
+    from _struct import *
+ImportError: /usr/lib64/python3.6/lib-dynload/_struct.cpython-36m-x86_64-linux-gnu.so: failed to map segment from shared object: Cannot allocate memory
+Traceback (most recent call last):
+  File "twitter/main.py", line 1, in <module>
+    from TwStreamListener import *
+  File "/home/ec2-user/twitter/TwStreamListener.py", line 14, in <module>
+    import tweepy
+  File "/usr/local/lib/python3.6/site-packages/tweepy/__init__.py", line 12, in <module>
+    from tweepy.api import API
+  File "/usr/local/lib/python3.6/site-packages/tweepy/api.py", line 9, in <module>
+    import six
+  File "/usr/local/lib/python3.6/site-packages/six.py", line 633, in <module>
+    import struct
+  File "/usr/lib64/python3.6/struct.py", line 13, in <module>
+    from _struct import *
+ImportError: /usr/lib64/python3.6/lib-dynload/_struct.cpython-36m-x86_64-linux-gnu.so: failed to map segment from shared object: Cannot allocate memory
+Traceback (most recent call last):
+  File "twitter/main.py", line 1, in <module>
+    from TwStreamListener import *
+  File "/home/ec2-user/twitter/TwStreamListener.py", line 14, in <module>
+    import tweepy
+  File "/usr/local/lib/python3.6/site-packages/tweepy/__init__.py", line 12, in <module>
+    from tweepy.api import API
+  File "/usr/local/lib/python3.6/site-packages/tweepy/api.py", line 9, in <module>
+    import six
+  File "/usr/local/lib/python3.6/site-packages/six.py", line 633, in <module>
+    import struct
+  File "/usr/lib64/python3.6/struct.py", line 13, in <module>
+    from _struct import *
+ImportError: /usr/lib64/python3.6/lib-dynload/_struct.cpython-36m-x86_64-linux-gnu.so: failed to map segment from shared object: Cannot allocate memory
+Traceback (most recent call last):
+  File "twitter/main.py", line 1, in <module>
+    from TwStreamListener import *
+  File "/home/ec2-user/twitter/TwStreamListener.py", line 14, in <module>
+    import tweepy
+  File "/usr/local/lib/python3.6/site-packages/tweepy/__init__.py", line 12, in <module>
+    from tweepy.api import API
+  File "/usr/local/lib/python3.6/site-packages/tweepy/api.py", line 9, in <module>
+    import six
+  File "/usr/local/lib/python3.6/site-packages/six.py", line 633, in <module>
+    import struct
+  File "/usr/lib64/python3.6/struct.py", line 13, in <module>
+    from _struct import *
+ImportError: /usr/lib64/python3.6/lib-dynload/_struct.cpython-36m-x86_64-linux-gnu.so: failed to map segment from shared object: Cannot allocate memory
+Traceback (most recent call last):
+  File "twitter/main.py", line 1, in <module>
+    from TwStreamListener import *
+  File "/home/ec2-user/twitter/TwStreamListener.py", line 14, in <module>
+    import tweepy
+  File "/usr/local/lib/python3.6/site-packages/tweepy/__init__.py", line 12, in <module>
+    from tweepy.api import API
+  File "/usr/local/lib/python3.6/site-packages/tweepy/api.py", line 9, in <module>
+    import six
+  File "/usr/local/lib/python3.6/site-packages/six.py", line 633, in <module>
+    import struct
+  File "/usr/lib64/python3.6/struct.py", line 13, in <module>
+    from _struct import *
+ImportError: /usr/lib64/python3.6/lib-dynload/_struct.cpython-36m-x86_64-linux-gnu.so: failed to map segment from shared object: Cannot allocate memory
+Traceback (most recent call last):
+  File "twitter/main.py", line 1, in <module>
+    from TwStreamListener import *
+  File "/home/ec2-user/twitter/TwStreamListener.py", line 14, in <module>
+    import tweepy
+  File "/usr/local/lib/python3.6/site-packages/tweepy/__init__.py", line 12, in <module>
+    from tweepy.api import API
+  File "/usr/local/lib/python3.6/site-packages/tweepy/api.py", line 9, in <module>
+    import six
+  File "/usr/local/lib/python3.6/site-packages/six.py", line 633, in <module>
+    import struct
+  File "/usr/lib64/python3.6/struct.py", line 13, in <module>
+    from _struct import *
+ImportError: /usr/lib64/python3.6/lib-dynload/_struct.cpython-36m-x86_64-linux-gnu.so: failed to map segment from shared object: Cannot allocate memory
