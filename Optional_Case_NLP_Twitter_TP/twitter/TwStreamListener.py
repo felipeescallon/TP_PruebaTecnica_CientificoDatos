@@ -30,11 +30,11 @@ class TwStreamListener(tweepy.StreamListener):
     #engine = create_engine('postgresql://postgres:postgres@***AWS-RDS***:5432/twitterdb')#conexion a la base de datos
     
     #DATABASE connection (twitterdb==uao_team18):
-    host = 'aescallon.ccmgy648sdqs.us-east-2.rds.amazonaws.com'                         #AWS RDS instance
+    host = 'xxxxxxxx'                                                                   #AWS RDS instance
     port = 5432                                                                         #default port
-    user = 'uao_team18'                                                                 #database user
-    password = 'uao_team18'                                                             #database password
-    database = 'uao_team18'                                                             #database name
+    user = 'xxxxxxxx'                                                                   #database user
+    password = 'xxxxxxxx'                                                               #database password
+    database = 'xxxxxxxx'                                                               #database name
     engine = create_engine(f'postgresql://{user}:{password}@{host}:{port}/{database}')  #database connection (only once)
 
     
@@ -189,9 +189,7 @@ class TwStreamListener(tweepy.StreamListener):
         self.mydb.close()
         return print("Stop Streaming")
     
-    #EMPEZAR A CORRER (ver el video del bootcamp para entender mejor esta parte (min 30 aprox))
-    #ADEMAS FALTA programar el crontab (PENDIENTE NO ESTABA EN LA INFO DESCARGADA DE DS4A pero si en el Video)
-    
+        
     def run(self): #solo se activa cuando escucha la palabra teleperformance
         print("Start Streaming")#INICIALIZAR LA "ESCUCHA"
         #AQUI LE DIGO LO QUE VA A ESCUCHAR: 
