@@ -116,11 +116,11 @@ def update_graph_live(n):
     #engine = create_engine('postgresql://postgres:postgres@***AWS-RDS***:5432/twitterdb')#conexion a la base de datos
     
     #DATABASE connection (twitterdb==uao_team18):
-    host = 'aescallon.ccmgy648sdqs.us-east-2.rds.amazonaws.com'                         #AWS RDS instance
-    port = 5432                                                                         #default port
-    user = 'uao_team18'                                                                 #database user
-    password = 'uao_team18'                                                             #database password
-    database = 'uao_team18'                                                             #database name
+    host = 'xxxxxx'                         #AWS RDS instance
+    port = 5432                                                                     #default port
+    user = 'xxxxxx'                                                                 #database user
+    password = 'xxxxxx'                                                             #database password
+    database = 'xxxxxx'                                                             #database name
     engine = create_engine(f'postgresql://{user}:{password}@{host}:{port}/{database}')  #database connection (only once)
 
     
@@ -152,11 +152,11 @@ def update_graph_live(n):
     #accesing the backup table via the database on AWS RDS (uao_team18):
       
     #DATABASE connection (the backup table is inside uao_team18):
-    #host = 'aescallon.ccmgy648sdqs.us-east-2.rds.amazonaws.com'                         #AWS RDS instance
-    #port = 5432                                                                         #default port
-    #user = 'uao_team18'                                                                 #database user
-    #password = 'uao_team18'                                                             #database password
-    #database = 'uao_team18'                                                             #database name
+    #host = 'xxxxxx'                         #AWS RDS instance
+    #port = 5432                                                                     #default port
+    #user = 'xxxxxx'                                                                 #database user
+    #password = 'xxxxxx'                                                             #database password
+    #database = 'xxxxxx'                                                             #database name
     #engine = create_engine(f'postgresql://{user}:{password}@{host}:{port}/{database}')  #database connection (only once)
     
     query = "SELECT daily_user_num, daily_tweets_num, impressions FROM backup;"
@@ -353,11 +353,11 @@ def update_graph_bottom_live(n):
     #engine = create_engine('postgresql://postgres:postgres@***AWS-RDS***:5432/twitterdb')#conexion a la base de datos
     
     #DATABASE connection (twitterdb==uao_team18):
-    host = 'aescallon.ccmgy648sdqs.us-east-2.rds.amazonaws.com'                         #AWS RDS instance
-    port = 5432                                                                         #default port
-    user = 'uao_team18'                                                                 #database user
-    password = 'uao_team18'                                                             #database password
-    database = 'uao_team18'                                                             #database name
+    host = 'xxxxxx'                                                                 #AWS RDS instance
+    port = 5432                                                                     #default port
+    user = 'xxxxxx'                                                                 #database user
+    password = 'xxxxxx'                                                             #database password
+    database = 'xxxxxx'                                                             #database name
     engine = create_engine(f'postgresql://{user}:{password}@{host}:{port}/{database}')  #database connection (only once)
 
         
